@@ -8,7 +8,7 @@ These patterns are typically categorized into three main categories based on the
 
 #### Creational Design Patterns:
 
-Creational design patterns are a group of design patterns that focus on object creation mechanisms, trying to create objects in a manner suitable to the situation. This group of patterns provide object creation mechanisms that increase flexibility and reuse of existing code. They provide ways to create objects while hiding the creation logic, rather than instantiating objects directly using the new keyword.
+Creational design patterns are a group of design patterns that focus on object creation mechanisms, trying to create objects in a manner suitable to the situation. This group of patterns provide object creation mechanisms that increase flexibility and reuse of existing code. They provide ways to create objects while hiding the creation logic, rather than instantiating objects directly using the `new` keyword.
 
 **Abstract Factory**
 > Provides an interface for creating families of related objects without specifying their concrete classes. The Abstract Factory pattern is useful when a system needs to be able to create different families of objects based on different configurations or requirements.
